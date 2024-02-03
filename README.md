@@ -28,20 +28,20 @@ body {
 ### Importing
 
 ```css
-@import "~@wikiline/webfont-ubuntu-mono/src/css/all.css";
-@import "~@wikiline/webfont-ubuntu-mono/src/css/all-normal.css";
-@import "~@wikiline/webfont-ubuntu-mono/src/css/all-italic.css";
+@import "~@wikiline/webfont-ubuntu-mono/css/all.css";
+@import "~@wikiline/webfont-ubuntu-mono/css/all-normal.css";
+@import "~@wikiline/webfont-ubuntu-mono/css/all-italic.css";
 ```
 
 To import specific fonts, you can use:
 
 ```css
-@import "~@wikiline/webfont-ubuntu-mono/src/css/weight-400.css";
-@import "~@wikiline/webfont-ubuntu-mono/src/css/weight-400-normal.css";
-@import "~@wikiline/webfont-ubuntu-mono/src/css/weight-400-italic.css";
-@import "~@wikiline/webfont-ubuntu-mono/src/css/weight-700.css";
-@import "~@wikiline/webfont-ubuntu-mono/src/css/weight-700-normal.css";
-@import "~@wikiline/webfont-ubuntu-mono/src/css/weight-700-italic.css";
+@import "~@wikiline/webfont-ubuntu-mono/css/weight-400.css";
+@import "~@wikiline/webfont-ubuntu-mono/css/weight-400-normal.css";
+@import "~@wikiline/webfont-ubuntu-mono/css/weight-400-italic.css";
+@import "~@wikiline/webfont-ubuntu-mono/css/weight-700.css";
+@import "~@wikiline/webfont-ubuntu-mono/css/weight-700-normal.css";
+@import "~@wikiline/webfont-ubuntu-mono/css/weight-700-italic.css";
 ```
 
 Note: Also, each file is presented in a minimized form.
@@ -71,20 +71,20 @@ body {
 ### Importing
 
 ```less
-@import "~@wikiline/webfont-ubuntu-mono/src/less/all";
-@import "~@wikiline/webfont-ubuntu-mono/src/less/all-normal";
-@import "~@wikiline/webfont-ubuntu-mono/src/less/all-italic";
+@import "~@wikiline/webfont-ubuntu-mono/less/all";
+@import "~@wikiline/webfont-ubuntu-mono/less/all-normal";
+@import "~@wikiline/webfont-ubuntu-mono/less/all-italic";
 ```
 
 To import specific fonts, you can use:
 
 ```less
-@import "~@wikiline/webfont-ubuntu-mono/src/less/_weight-400";
-@import "~@wikiline/webfont-ubuntu-mono/src/less/_weight-400-normal";
-@import "~@wikiline/webfont-ubuntu-mono/src/less/_weight-400-italic";
-@import "~@wikiline/webfont-ubuntu-mono/src/less/_weight-700";
-@import "~@wikiline/webfont-ubuntu-mono/src/less/_weight-700-normal";
-@import "~@wikiline/webfont-ubuntu-mono/src/less/_weight-700-italic";
+@import "~@wikiline/webfont-ubuntu-mono/less/_weight-400";
+@import "~@wikiline/webfont-ubuntu-mono/less/_weight-400-normal";
+@import "~@wikiline/webfont-ubuntu-mono/less/_weight-400-italic";
+@import "~@wikiline/webfont-ubuntu-mono/less/_weight-700";
+@import "~@wikiline/webfont-ubuntu-mono/less/_weight-700-normal";
+@import "~@wikiline/webfont-ubuntu-mono/less/_weight-700-italic";
 ```
 
 ### Variables
@@ -100,7 +100,7 @@ variables are not defined:
 or
 
 ```less
-@import "~@wikiline/webfont-ubuntu-mono/src/less/config/_variables";
+@import "~@wikiline/webfont-ubuntu-mono/less/config/_variables";
 ```
 
 ## Usage (SCSS)
@@ -116,20 +116,20 @@ body {
 ### Importing
 
 ```scss
-@import "~@wikiline/webfont-ubuntu-mono/src/scss/all";
-@import "~@wikiline/webfont-ubuntu-mono/src/scss/all-normal";
-@import "~@wikiline/webfont-ubuntu-mono/src/scss/all-italic";
+@import "~@wikiline/webfont-ubuntu-mono/scss/all";
+@import "~@wikiline/webfont-ubuntu-mono/scss/all-normal";
+@import "~@wikiline/webfont-ubuntu-mono/scss/all-italic";
 ```
 
 To import specific fonts, you can use:
 
 ```scss
-@import "~@wikiline/webfont-ubuntu-mono/src/scss/weight-400";
-@import "~@wikiline/webfont-ubuntu-mono/src/scss/weight-400-normal";
-@import "~@wikiline/webfont-ubuntu-mono/src/scss/weight-400-italic";
-@import "~@wikiline/webfont-ubuntu-mono/src/scss/weight-700";
-@import "~@wikiline/webfont-ubuntu-mono/src/scss/weight-700-normal";
-@import "~@wikiline/webfont-ubuntu-mono/src/scss/weight-700-italic";
+@import "~@wikiline/webfont-ubuntu-mono/scss/weight-400";
+@import "~@wikiline/webfont-ubuntu-mono/scss/weight-400-normal";
+@import "~@wikiline/webfont-ubuntu-mono/scss/weight-400-italic";
+@import "~@wikiline/webfont-ubuntu-mono/scss/weight-700";
+@import "~@wikiline/webfont-ubuntu-mono/scss/weight-700-normal";
+@import "~@wikiline/webfont-ubuntu-mono/scss/weight-700-italic";
 ```
 
 ### Variables
